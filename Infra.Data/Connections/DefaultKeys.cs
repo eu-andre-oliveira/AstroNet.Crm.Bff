@@ -5,6 +5,6 @@ namespace Infra.Data.Connections
     [ExcludeFromCodeCoverage]
     public static class DefaultKeys
     {
-        public const string ListoVirtualAccount = "SqlServerListoVirtualAccount";
+        public const string develop = "SqlServerdevelop";
     }
 }
